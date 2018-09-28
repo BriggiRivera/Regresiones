@@ -10,14 +10,15 @@ de la maestría de la UNSA.
  - Código fuente: main3D.py
  - Resultado: resultado002.gif, resultado003.gif
  
-# Tarea 2: Regresión circular en plano 2D:
+# Tarea 2: Regresión logística para predicción de càncer de mama:
+ - Código fuente: CancerMama.py
+ - Entrada: breast-cancer.data (https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/breast-cancer.data)
+ - Resultado: se alcanzó en el mejor de los casos 82% de accuracy. 
+ 
+# Tarea 3: Regresión circular en plano 2D:
  - Código fuente: 
  - Resultado: 
  
-# Tarea 3: Regresión logística para predicción de càncer de mama:
- - Código fuente: CancerMama.py
- - Entrada: breast-cancer.data (https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer/breast-cancer.data)
- - Resultado: 
  
  
  
